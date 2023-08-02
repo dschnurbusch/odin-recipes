@@ -5,8 +5,20 @@
 
 h1 {
     font-style: italic;
+    text-align: center;
 }
 
 h2 {
     text-decoration: underline;
+}
+
+.recipe {
+    margin: auto;
+    width: 600px;
+}
+
+.recipe img {
+    margin: 0 auto;
+    width: 60%;
+    display: block;
 }
